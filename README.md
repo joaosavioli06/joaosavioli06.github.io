@@ -1,2 +1,2 @@
-# personal-website
-A personal and simple website made by me
+# Personal Webiste
+More details in the future...
