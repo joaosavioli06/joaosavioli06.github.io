@@ -8,7 +8,7 @@ As highlighted in a personal study project in another repository, I want to focu
 
 To finish, it is important to leave open that I may make future changes to this website, but I believe that for the moment (June 2023), it is focusing on my main target, which is to build a simple and straightforward website from scratch!
 
-[PT-BR] Neste repositório, você encontrará meu próprio site, que criei entre maio e junho de 2023. O principal objetivo desse projeto foi criar meu primeiro “portefólio”, embora eu não tenha nada realmente especial ou grande para mostrar. Eu diria que este site expressa o início de coisas boas e novos projetos no futuro. É importante conhecer todos os aspectos da área de desenvolvimento, mas você obviamente não precisa saber fazer tudo, esse é o meu caso.
+[PT-BR] Neste repositório, você encontrará meu próprio site, que criei entre maio e junho de 2023. O principal objetivo desse projeto foi criar meu primeiro “portfolio”, embora eu não tenha nada realmente especial ou grande para mostrar. Eu diria que este site expressa o início de coisas boas e novos projetos no futuro. É importante conhecer todos os aspectos da área de desenvolvimento, mas você obviamente não precisa saber fazer tudo, esse é o meu caso.
 
 Até o momento, não tenho o objetivo de seguir essa área, mas  eu acho de suma importância saber pelo menos os conceitos básicos da programação web, assim eu posso fazer meus próprios ‘websites’ sem depender de ninguém. Além de que se um dia alguém pedir ajuda para montar um ‘website’ simples, eu provavelmente estarei apto para ajudar esta pessoa.
 
