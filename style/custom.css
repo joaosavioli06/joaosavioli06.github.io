@@ -99,12 +99,16 @@ body{
 
 
 .imagens{
-  
-  flex-direction: row;
+  flex-wrap: wrap;
   display: flex;
   align-items: center;
   
   justify-content: space-evenly;
+}
+
+.imagens img{
+  max-width: 100%;
+  
 }
 
 .php-png{
@@ -143,5 +147,10 @@ body{
 }
 
 
-
 footer{background-color: white; color: black; text-align: center; padding-bottom: 1%; font-weight: bold;}
+
+@media (max-width: 575px) {
+  .imagens img {
+    width: 80%;
+  }
+}
