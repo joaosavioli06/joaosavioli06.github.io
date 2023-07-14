@@ -101,7 +101,7 @@ body{
 .imagens{
   display: flex;
   align-items: center;
-  gap: 30px;
+  justify-content: space-evenly;
 }
 
 .imagens div > img{
