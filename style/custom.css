@@ -99,44 +99,16 @@ body{
 
 
 .imagens{
-  flex-wrap: wrap;
   display: flex;
   align-items: center;
-  
   justify-content: space-evenly;
 }
 
-.imagens img{
-  max-width: 100%;
-  
+.imagens div > img{
+  width: 150px;
+  padding: 10px;
 }
 
-.php-png{
- display: flex;
- justify-content: center;
- height: 193px;
- margin-left: 2px ;
-
-}
-
-.C-png{
-  display: flex;
-  justify-content: center;
-  height: 160px;
-}
-
-.Py-png{
-  display: flex;
-  justify-content: center;
-  height: 160px;
-}
-
-.Django-png{
-  
-  display: flex;
-  justify-content: center;
-  height: 135px;
-}
 
 .link-email{
   color: rgb(8, 56, 8);
@@ -150,7 +122,9 @@ body{
 footer{background-color: white; color: black; text-align: center; padding-bottom: 1%; font-weight: bold;}
 
 @media (max-width: 575px) {
-  .imagens img {
-    width: 80%;
+  .imagens{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
   }
 }
