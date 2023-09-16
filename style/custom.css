@@ -3,7 +3,6 @@ body{
   background-color: rgba(0, 0, 0, 0);
 }
 
-
 .start{
   display: flex;
   flex-direction: column;
@@ -129,6 +128,11 @@ footer{background-color: white; color: black; text-align: center; padding-bottom
   }
 
   body{
-    padding: 30px;
+    padding: 40px;
+  }
+
+  .imagens{
+    display: flex;
+    align-items: center;
   }
 }
