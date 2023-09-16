@@ -127,12 +127,39 @@ footer{background-color: white; color: black; text-align: center; padding-bottom
     flex-direction: row;
   }
 
-  body{
+  .start{
     padding: 40px;
   }
 
-  .imagens{
-    display: flex;
-    align-items: center;
+  .first-par{
+    padding: 40px;
+  }
+
+  .second-par{
+    padding: 40px;
+  }
+
+  .third-par{
+    padding: 40px;
+  }
+
+  .fourth-par{
+    padding: 40px;
+  }
+
+  .par5-and6{
+    padding: 40px;
+  }
+
+  .end-par{
+    padding: 40px;
+  }
+
+  .end{
+    padding: 40px;
+  }
+
+  .about-me{
+    padding: 40px;
   }
 }
