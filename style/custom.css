@@ -127,4 +127,8 @@ footer{background-color: white; color: black; text-align: center; padding-bottom
     flex-wrap: wrap;
     flex-direction: row;
   }
+
+  body{
+    padding: 50px;
+  }
 }
